@@ -9,7 +9,7 @@ Assumptions:
 Instructions for MAC: 
 
 Run
-'''
+```
 g++ challenge.cpp
 ./a.out tests/large_group_1
-'''
+```
