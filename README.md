@@ -3,7 +3,7 @@
 Assumptions: 
 
 - Customers prefer a seat near the center row, and corner seats
-- Customers prefer a seat top rows over lower rows
+- Customers prefer seats in top rows over lower rows
 - Screen is facing the bottom-most row (which is J)
 
 Instructions for MAC: 
